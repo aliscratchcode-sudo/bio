@@ -1,4 +1,4 @@
-  ![image alt](https://github.com/aligamingplayer65-glitch/-/blob/d61c1d567f6d2a7d8857938412f4d5e4c060ac1c/icon.png)
+  ![image alt](https://github.com/aliscratchcode-sudo/bio/blob/128993b2a6eff23dd460a3ab13f3b4e8d35876e8/icon.png)
 
 <div dir="rtl" align="right">
 
