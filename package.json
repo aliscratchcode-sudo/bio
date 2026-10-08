@@ -1,0 +1,34 @@
+{
+ "name": "buildora",
+ "version": "1.0.0",
+ "description": "Buildora video editor",
+ "main": "main.js",
+ "scripts": {
+  "start": "electron .",
+  "dist": "electron-builder --win portable"
+ },
+ "build": {
+  "appId": "app.buildora",
+  "productName": "Buildora",
+  "files": [
+   "index.html",
+   "style.css",
+   "app.js",
+   "main.js",
+   "icon.ico",
+   "icon.png",
+   "logo.png"
+  ],
+  "win": {
+   "target": "portable",
+   "icon": "icon.ico"
+  },
+  "portable": {
+   "artifactName": "Buildora.exe"
+  }
+ },
+ "devDependencies": {
+  "electron": "^31.0.0",
+  "electron-builder": "^24.13.3"
+ }
+}
